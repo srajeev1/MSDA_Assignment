@@ -5,18 +5,18 @@
     <Title>Probability, With Applications and R</Title>
     <Author>Robert P. Dobrow</Author>
     <ISBN>978-1-118-24125-7</ISBN>
-    <Price>$140.00</Price>
+    <Price>140.00</Price>
   </Book>
   <Book>
     <Title>Machine Learning with R</Title>
     <Author>Brett Lantz</Author>
     <ISBN>978-1782162148</ISBN>
-    <Price>$49.99</Price>
+    <Price>49.99</Price>
   </Book>
   <Book>
     <Title>XML and Web Technologies for Data Sciences with R</Title>
     <Author>Deborah Nolan; Duncan Lang Temple</Author>
     <ISBN>978-1782162148</ISBN>
-    <Price>$49.99</Price>
+    <Price>49.99</Price>
   </Book>
 </FavoriteBooks>
